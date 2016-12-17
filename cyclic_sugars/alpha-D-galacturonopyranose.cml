@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<molecule xmlns="http://www.xml-cml.org/schema" id="alpha-D-galacturonopyranose.out" spinMultiplicity="2">
+<molecule xmlns="http://www.xml-cml.org/schema" id="alpha-D-galacturonopyranose.out">
  <atomArray>
   <atom id="a1" elementType="C" x3="-1.077000" y3="0.354000" z3="-1.019000"/>
   <atom id="a2" elementType="C" x3="-1.586000" y3="-0.385000" z3="0.232000"/>
@@ -9,7 +9,7 @@
   <atom id="a6" elementType="O" x3="1.043000" y3="-1.863000" z3="0.789000"/>
   <atom id="a7" elementType="C" x3="1.179000" y3="0.285000" z3="-0.321000"/>
   <atom id="a8" elementType="C" x3="2.585000" y3="-0.044000" z3="-0.760000"/>
-  <atom id="a9" elementType="O" spinMultiplicity="2" x3="3.420000" y3="0.842000" z3="-0.845000"/>
+  <atom id="a9" elementType="O" x3="3.420000" y3="0.842000" z3="-0.845000"/>
   <atom id="a10" elementType="O" x3="2.900000" y3="-1.242000" z3="-1.041000"/>
   <atom id="a11" elementType="O" x3="0.254000" y3="-0.041000" z3="-1.362000"/>
   <atom id="a12" elementType="O" x3="-2.865000" y3="0.138000" z3="0.599000"/>

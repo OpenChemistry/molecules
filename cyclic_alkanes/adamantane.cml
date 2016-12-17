@@ -1,4 +1,4 @@
-<molecule spinMultiplicity="3">
+<molecule">
  <atomArray>
   <atom id="a1" elementType="C" x3="0.979657" y3="0.086163" z3="0.459697"/>
   <atom id="a2" elementType="C" x3="0.504989" y3="-0.962234" z3="-0.575075"/>
@@ -6,7 +6,7 @@
   <atom id="a4" elementType="H" x3="1.290995" y3="-1.131869" z3="-1.321080"/>
   <atom id="a5" elementType="H" x3="0.323967" y3="-1.921771" z3="-0.075485"/>
   <atom id="a6" elementType="C" x3="-1.889189" y3="-0.255064" z3="-0.213372"/>
-  <atom id="a7" elementType="C" spinMultiplicity="2" x3="-1.359079" y3="0.782393" z3="0.753424"/>
+  <atom id="a7" elementType="C" x3="-1.359079" y3="0.782393" z3="0.753424"/>
   <atom id="a8" elementType="H" x3="-2.818331" y3="0.091927" z3="-0.680893"/>
   <atom id="a9" elementType="H" x3="-2.117534" y3="-1.186649" z3="0.316743"/>
   <atom id="a10" elementType="C" x3="-0.136166" y3="0.305120" z3="1.511639"/>
@@ -20,7 +20,7 @@
   <atom id="a18" elementType="H" x3="0.266210" y3="0.719641" z3="-2.757066"/>
   <atom id="a19" elementType="H" x3="-1.411020" y3="1.204938" z3="-2.505490"/>
   <atom id="a20" elementType="H" x3="0.130251" y3="2.878123" z3="-1.462258"/>
-  <atom id="a21" elementType="C" spinMultiplicity="2" x3="-1.113274" y3="2.071953" z3="0.104830"/>
+  <atom id="a21" elementType="C" x3="-1.113274" y3="2.071953" z3="0.104830"/>
   <atom id="a22" elementType="H" x3="1.610920" y3="2.173954" z3="0.437466"/>
   <atom id="a23" elementType="H" x3="2.042596" y3="1.285114" z3="-1.024148"/>
   <atom id="a24" elementType="H" x3="-1.092194" y3="2.956398" z3="0.736061"/>
