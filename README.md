@@ -1,7 +1,7 @@
-# OpenChemistry Molecules
+# Molecules
+===========
 
-Common molecule fragments for visualization in Avogadro.
-Includes a variety of organic functional groups, including:
+Common molecule fragments including a variety of organic functional groups:
 
 - alcohols
 - aldehydes
@@ -31,3 +31,8 @@ Includes a variety of organic functional groups, including:
 - steroids
 - sulfoxides
 - thiols
+
+All molecules are made available the BSD license. Most are from the
+[Blue Obelisk Chemical Structures](http://chem-file.sourceforge.net/) set.
+Where possible, optimized geometries are made available using the
+[Pitt Quantum Repository](https://pqr.pitt.edu/)
